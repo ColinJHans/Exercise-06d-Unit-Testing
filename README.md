@@ -21,4 +21,4 @@ Add more tests
 
 ## Created by 
 
-Jason Francis
+Colin Hans
